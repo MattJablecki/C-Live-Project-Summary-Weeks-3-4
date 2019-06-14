@@ -1,4 +1,4 @@
-# C-Live-Project-Summary-Weeks-3-4
+# C-Sharp-Live-Project-Summary-Weeks-3-4
 
 ## Introduction
 For my second two-week sprint on the Erectors Construction Project, I was assigned specifically to Front-End Development. After a conversation with my project manager, I was tasked with creating a drag and drop page in which an administrator could build a weekly schedule for all employees by simply setting the date range and dragging the employee into a bin containing their job for that week. Upon successful completion, I was then given an opportunity to do a similar page for the admins to assign a foreman to each job and set a date range for the entire life expectancy of the job they were assigned to. This was a fun and exciting challenge, as I had never had any exposure to drag and drop functionality. While I only worked on the front end development of this assignment, I will be spending the next two weeks implementing the back end functionality to make these pages operate correctly. 
